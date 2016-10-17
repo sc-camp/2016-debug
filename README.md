@@ -2,6 +2,8 @@
 
 Follow the instructions from the practical session page: [https://github.com/sc-camp/2016-debug](https://github.com/sc-camp/2016-debug)
 
+- SC-Camp Facebook [https://www.facebook.com/groups/466942123331158/](https://www.facebook.com/groups/466942123331158/)
+- SC-Camp Twitter [https://twitter.com/superccamp](https://twitter.com/superccamp)
 
 ## 0 - Pre-requisites
 
