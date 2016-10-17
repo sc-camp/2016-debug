@@ -35,9 +35,9 @@ The first step is the reservation of a resource. Connect to the cluster frontend
 
     (laptop)$> ssh guane
 
-Once connected to the user frontend, book 1 core for 3 hours
+Once connected to the user frontend, book 1 node in interactive session.
 
-    jdoe@guane:~$ oarsub -I -l core=1,walltime="03:00:00"
+    jdoe@guane:~$ salloc -p all --nodes=1 --partition=all srun --pty bash
 
 When the job is running, you can start the practical session.
 
